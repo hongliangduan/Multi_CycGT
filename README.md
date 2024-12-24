@@ -76,3 +76,9 @@ The related projects about membrane permeability prediction and deep learning.
 - [Related Project 1](https://github.com/related_project_1)
 - [Related Project 2](https://github.com/related_project_2)
 
+## Model Scalability
+
+Running time of Multi_CycGT
+
+![multi_cycgt](https://github.com/user-attachments/assets/0f1d02a7-655f-4b39-90a9-b3d0c314f5d5)
+
